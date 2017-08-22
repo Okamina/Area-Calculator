@@ -1,6 +1,6 @@
 '''
-TODO: Area Calculator.
-Make a simple area calculator as your secound task
+Program can calculate area of: 
+circle, triangle, square, rectangle, trapezoid/trapezium, elipse, parallelogram and kite
 '''
 
 from math import pi
